@@ -1,0 +1,1 @@
+# Patika birinci ve ikinci ödev
